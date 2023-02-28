@@ -3,7 +3,6 @@
   "version": "17.0.4",
   "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
-  "license": "ISC",
   "scripts": {
     "start": "node zeeone.js"
    },
@@ -15,7 +14,6 @@
     "baileys-md"
   ],
   "author": "ZeeoneOfc",
-  "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys@^6.0.7",
     "@adiwajshing/keyed-db": "^0.2.4",
